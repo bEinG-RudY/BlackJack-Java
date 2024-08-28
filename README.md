@@ -1,4 +1,4 @@
 # Black Jack (Java)
 
-![blackjack-java](images/jack.png)
+<!-- ![blackjack-java](images/jack.png) -->
 
