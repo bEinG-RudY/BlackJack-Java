@@ -21,5 +21,5 @@ The paintComponent() method handles the graphical representation of the cards an
 Summary:
 This program offers a simple, interactive Blackjack game with a visual interface, card management, and basic game logic to simulate the classic casino experience.
 
-![blackjack-java](images/jack.png)
+![blackjack-java game image](images/jack.png)
 
