@@ -19,13 +19,13 @@ public class BlackJack {
         }
 
         public int getValue() {
-            if ("AJQK".contains(value)) { //A J Q K
+            if ("AJQK".contains(value)) {
                 if (value == "A") {
                     return 11;
                 }
                 return 10;
             }
-            return Integer.parseInt(value); //2-10
+            return Integer.parseInt(value); 
         }
 
         public boolean isAce() {
@@ -38,7 +38,7 @@ public class BlackJack {
     }
 
     ArrayList<Card> deck;
-    Random random = new Random(); //shuffle deck
+    Random random = new Random();
 
     //dealer
     Card hiddenCard;
